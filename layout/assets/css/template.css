@@ -1,0 +1,51 @@
+body{
+	background-color: #e9ebee;
+}
+
+.utama{
+	width: 1020px;
+	margin: auto;
+	border: 1px solid#ccc;
+	min-height: 500px;
+	background-color: #fff;
+}
+
+.kepala {
+	margin-bottom: 15px;
+}
+
+.menu a{
+	border: 1px solid #078405;
+	padding: 10px;
+	background-color: #078405;
+	color: #fff;
+	text-decoration: none;
+}
+
+.menu a:hover {
+	background-color: #218ece;
+}
+
+.isi{
+	padding: 20px;
+}
+
+table{
+	border: 1px solid #ccc;
+	border-collapse: collapse;
+}
+
+table th{
+	border: 1px solid #ccc;
+	padding: 10px;
+	background-color: #056b04;
+	color: #fff;
+}
+
+table td{
+	border: 1px solid #ccc;
+	padding: 10px;
+}
+
+
+
